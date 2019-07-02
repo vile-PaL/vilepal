@@ -1,0 +1,17 @@
+Pkg update && pkg upgrade
+
+Pkg install git
+
+Cd
+
+Ls
+
+git clone https://github.com/Rajkumrdusad/Tool-X.git
+
+cd Tool-x
+
+
+chmod +x install.aex
+
+
+sh install.aex
